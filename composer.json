@@ -1,0 +1,15 @@
+{
+    "name": "aufccs/fakerphp",
+    "description": "PHP project making use of Composer's Faker",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keihle Pascual"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
